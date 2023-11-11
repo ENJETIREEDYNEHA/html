@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name = "viewport" content = "width=device-width,initial-scale=1.0">
+        <title>Neha's Interior Designing</title>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to my Interior Designing Company </h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href = "#about">About</a></li>
+                <li><a href = "#designs">Designs</a></li>
+                <li><a href = "#contact">Contact</a></li>
+            </ul>
+         </nav>
+         <main>
+             <section id = "about">
+                 <h2>About Me</h2>
+                 <p>I have completed my graduation on designing in a well known university.I would love to do designing.I have started an Interior designing Company and started designing</p>
+             </section>
+             <section id = "designs">
+                 <h2>Designs</h2>
+                 <p>I am very much good and have well experience in the following designs:</p>
+                 <ul>
+                     <li>Contemporary</li>
+                     <li>Modern</li>
+                     <li>Traditional</li>
+                     <li>Art Deco</li>
+                     <li>Minimalist</li>
+                 </ul>
+                 <p>I would like to share some of my designs here...</p>
+                 <img src="https://png.pngtree.com/thumb_back/fw800/background/20230722/pngtree-contemporary-natural-living-space-in-townhouse-interior-3d-render-image_3772095.jpg" alt ="contemporary design" height="300" width="300">
+                 <br>
+                 <img src="https://img.freepik.com/premium-photo/3d-rendering-modern-living-room-with-white-sofa-wooden-floor-nature-background_224530-2555.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698451200&semt=ais" alt="modern design" height="300" width="300">
+                 <br>
+                 <img src="https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/2/2021/03/21210525/indian-interior-design-ideas.jpg" alt="traditional design" height="300" width="300">
+                 <br>
+                 <img src="https://img.freepik.com/premium-photo/modern-art-deco-style-living-room-interior-design-ai-generated-image_210643-375.jpg" alt="art deco design" height="300" width="300">
+                 <br>
+                 <img src="https://static.vecteezy.com/system/resources/thumbnails/023/729/656/small_2x/simple-minimalist-living-room-interior-generative-ai-photo.jpg" alt="minimalist design" height="300" width="300">
+
+             </section>
+             <section id = "contact">
+                 <h2>Contact</h2>
+                 <p>If you want to contact me, send me an email....</p>
+                 <a href = "mailto:191078549sms@gmail.com">Send an email</a>
+             </section>
+             </main>
+    </body>
+</html>
+
+         </main>
+
+
+               
+                        
